@@ -120,7 +120,7 @@
   <h2>Instalação</h2>
   <p>Siga as instruções abaixo para rodar o projeto:</p>
 
-  <pre><code>git clone https://github.com/seu-usuario/portfolio-next.git
+  <pre><code>git clone https://github.com/sucloudflare/portfolio-next.git
 cd portfolio-next
 npm install
 npm run dev</code></pre>
